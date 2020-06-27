@@ -2,7 +2,7 @@
 簡単な自己紹介やアピール。
 どんなことができる、したいのか。
 
-## Movie
+## Voice Training
 第1回
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MXcmRw1JlWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
