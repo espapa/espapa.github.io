@@ -1,7 +1,3 @@
-# About
-簡単な自己紹介やアピール。
-どんなことができる、したいのか。
-
 ## Voice Training
 第1回
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MXcmRw1JlWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,7 +21,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aPu0CfRJw58" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 第8回
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c5cdrA_4Io4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-第9回
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c5cdrA_4Io4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
